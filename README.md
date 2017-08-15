@@ -3,7 +3,11 @@ This repository contains multiple machine learning algorithms written in Python 
 
 Legend:
 GradDec- gradient decent
+
 Lin- linear
+
 Log- logistic
+
 MultiVar- multivariable
+
 Quad- quadratic
